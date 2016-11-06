@@ -22,7 +22,9 @@ One peculiar thing that I noticed in the data set was that the training data set
 
 After identifying this interesting thing, my approach became clear. First build a model to predict "total" and then take the predictions as an input for the final model.
 
-I have tried to utilize the power of both boosting and bagging to reach to final results. My solution is in form of an Ipthon-notebook in this repository. 
+I have tried to utilize the power of both boosting and bagging to reach to final results. My solution is in form of an Ipthon-notebook in this repository (below is the link for it).
 
-The accuracy level achieved in training set is around 82%. I believe this can be improved further using ensembling or neural networks. 
+https://github.com/AD1985/Movie-Problem/blob/master/Quantiphi-Problem.ipynb
+
+The accuracy level achieved in training set is ~83%. I believe this can be improved further using ensembling or neural networks. 
 
