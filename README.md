@@ -1,6 +1,6 @@
 ### Hollywood blockbuster Case ##
 
-This problem was given to me as part of selection process for a Data Scientist role. Unfortunately I could not crack it during the process, but since then this problem became an infatuation for me. I tried several iterations (almost everyday) to improve it more and more. Till now I have reached to a satisfactory level but there is still room for improvement.
+This problem was given to me as part of selection process for a Data Scientist role. Unfortunately I could not crack it during the process, but since then this problem has become an addiction for me. I have tried several iterations (almost everyday) to improve it and make it better. Till now I have reached to a satisfactory level but I believe there is still room for improvement.
 
 Outline:
 
